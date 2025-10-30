@@ -141,14 +141,6 @@ The tool recognizes the following city codes in hostnames:
 | `il` | Yilan |
 | `tt` | Taitung |
 
-## Example Results
-
-Based on the included datasets:
-
-- **Total routers processed**: 334 (dataset 1a), 562 (dataset 1b)
-- **Success rate**: ~80-90% found in database
-- **Top locations**: Taipei, Taichung, New Taipei City, Taoyuan
-- **Network providers**: HiNet, Taiwan Academic Network (TWAREN), SEED.NET
 
 ## API Reference
 
@@ -212,8 +204,4 @@ Tieu-Phuong Nguyen, TEEP Intern @CISLab Fall 2025
 
 National Chung Cheng University, Taiwan R.O.C.
 
-## Acknowledgments
-
-- MaxMind for the GeoLite2 database
-- Taiwan Academic Network (TWAREN) for network infrastructure data
-- HiNet and other ISPs for publicly accessible router information
+Questions or feedback? Contact me at: `phuong.nt210692(at)hust.edu.vn`
