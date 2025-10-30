@@ -591,8 +591,8 @@ Taiwan city distribution:
   Unknown             : 324
   Taipei              : 67
   Taichung            : 48
-  New Taipei City     : 26
-  Chiyayi County      : 20
+  New Taipei     : 26
+  Chiayi County      : 20
   Taoyuan District    : 15
   Kaohsiung           : 13
   Tainan City         : 10
